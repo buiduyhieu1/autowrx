@@ -1,3 +1,11 @@
+// Copyright (c) 2026 Eclipse Foundation.
+//
+// This program and the accompanying materials are made available under the
+// terms of the MIT License which is available at
+// https://opensource.org/licenses/MIT.
+//
+// SPDX-License-Identifier: MIT
+
 import { useEffect, useMemo, useState, useRef } from 'react'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import {
@@ -196,6 +204,7 @@ export default function TemplateForm({
             variant: stagingItem.variant,
             hidden: stagingItem.hidden,
             corners: stagingItem.corners,
+            renderPlugin: stagingItem.renderPlugin,
           }
         : {}
       setPrototypeStagingConfig(stagingItemConfig)
@@ -300,6 +309,7 @@ export default function TemplateForm({
             variant: stagingItem2.variant,
             hidden: stagingItem2.hidden,
             corners: stagingItem2.corners,
+            renderPlugin: stagingItem2.renderPlugin,
           }
         : {}
       setPrototypeStagingConfig(stagingItemConfig2)
