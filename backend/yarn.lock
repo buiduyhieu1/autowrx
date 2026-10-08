@@ -1442,7 +1442,7 @@
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
-"@types/lodash@^4.17.25":
+"@types/lodash@^4.17.12":
   version "4.17.25"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.25.tgz#69765ac7bcddb0eb072961cf292524a8f5b3c2c0"
   integrity sha512-+K1NIO8I+F9/wNulfVvu23QYd0Pe9/OCqRrim4NoYIf1VoEDL90Ve4ClzpyqBLc7NpGGWRvYNCKZ1BE/Jpf8dQ==
@@ -2148,10 +2148,10 @@ caniuse-lite@^1.0.30001746:
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001751.tgz"
   integrity sha512-A0QJhug0Ly64Ii3eIqHu5X51ebln3k4yTUkY1j8drqpWHVreg/VLijN48cZ1bYPiqOQuqpkIKnzr/Ul8V+p6Cw==
 
-casbin-mongoose-adapter@^5.3.1:
-  version "5.4.0"
-  resolved "https://registry.npmjs.org/casbin-mongoose-adapter/-/casbin-mongoose-adapter-5.4.0.tgz"
-  integrity sha512-fskQXvlVr2Qyu06f9olNCm8GO+M8Ha4T2Twv0wO6iuDnBVVatfRwCsRXp4qXT4irCxLQAHV1ka/yg8cj5n8o7w==
+casbin-mongoose-adapter@^5.6.1:
+  version "5.6.1"
+  resolved "https://registry.yarnpkg.com/casbin-mongoose-adapter/-/casbin-mongoose-adapter-5.6.1.tgz#c2adab5131f9562bbf2862df2af8411d8cc2f9a2"
+  integrity sha512-rVN0QJZroLepjT6CEhZYGyFz/Dsv4FwF5YhoRsQ17IZVcgJEbqUxUDgFlLyyp6CBJ/+q87vCMgV+L7QXsJHY2Q==
   dependencies:
     mongoose "^8.1.1"
 
