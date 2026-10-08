@@ -108,7 +108,7 @@
     "husky": "^9.1.1",
     "postcss": "^8.5.29",
     "prettier": "^3.9.9",
-    "prettier-plugin-tailwindcss": "^0.8.0",
+    "prettier-plugin-tailwindcss": "^0.8.1",
     "rollup-plugin-visualizer": "^7.0.1",
     "simple-zustand-devtools": "^1.1.0",
     "tailwindcss": "^4.1.15",
