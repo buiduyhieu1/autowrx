@@ -84,7 +84,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
     "@tanstack/eslint-plugin-query": "^5.101.2",
-    "@tanstack/react-query-devtools": "^5.97.0",
+    "@tanstack/react-query-devtools": "^5.104.1",
     "@types/culori": "^4.0.1",
     "@types/diff-match-patch": "^1.0.36",
     "@types/dompurify": "^3.0.5",
