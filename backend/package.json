@@ -64,7 +64,7 @@
     "express-rate-limit": "^7.0.0",
     "helmet": "^8.0.0",
     "http-proxy-middleware": "^3.0.0",
-    "http-status": "^1.7.4",
+    "http-status": "^2.1.0",
     "jimp": "^1.6.1",
     "joi": "^17.3.0",
     "jsonwebtoken": "^9.0.0",
