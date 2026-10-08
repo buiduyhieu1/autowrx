@@ -55,7 +55,7 @@
     "casbin-mongoose-adapter": "^5.3.1",
     "compression": "^1.7.5",
     "cookie-parser": "^1.4.7",
-    "cors": "^2.8.5",
+    "cors": "^2.8.6",
     "cross-env": "^7.0.0",
     "dayjs": "^1.11.11",
     "dotenv": "^16.0.0",
