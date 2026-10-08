@@ -4901,10 +4901,10 @@ node-releases@^2.0.27:
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-2.0.27.tgz"
   integrity sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==
 
-non.geist@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/non.geist/-/non.geist-2.0.1.tgz"
-  integrity sha512-hCl7GMAbrEcxTTxVA7tJfqRuFkvLmqQKoKxyOiIFjaoWG7ZZu5TrZN7GqNJ83QLPDZgwqINnJVhRKVwb/Sz1JA==
+non.geist@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/non.geist/-/non.geist-2.2.0.tgz#3979d59b0da2697afe3821a467f90f10458fd22b"
+  integrity sha512-s8PBxZYGZ8DN7vRpJQmT3n4wZJ0FNz4HdhyQpSknek92ylQBp2DLbaiaSxaA2m2aTk3T2NSBNqtx9tR3ihTtkA==
 
 object-assign@^4.1.1:
   version "4.1.1"
