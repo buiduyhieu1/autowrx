@@ -8,6 +8,17 @@ updates:
     open-pull-requests-limit: 10
     labels:
       - "dependencies"
+      - "frontend"
+
+  # Backend npm dependencies
+  - package-ecosystem: "npm"
+    directory: "/backend"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+      - "backend"
 
   # Root npm dependencies (if any)
   - package-ecosystem: "npm"
