@@ -384,6 +384,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@epic-web/invariant@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@epic-web/invariant/-/invariant-1.0.0.tgz#1073e5dee6dd540410784990eb73e4acd25c9813"
+  integrity sha512-lrTPqgvfFQtR/eY/qkIzp98OGdNJu0m5ji3q/nJI8v3SXkRKEnWiOxMmbvcSoAIzv/cGiuvRy57k4suKQSAdwA==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.9.0"
   resolved "https://registry.npmjs.org/@eslint-community/eslint-utils/-/eslint-utils-4.9.0.tgz"
@@ -1442,7 +1447,7 @@
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
-"@types/lodash@^4.17.25":
+"@types/lodash@^4.17.12":
   version "4.17.25"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.25.tgz#69765ac7bcddb0eb072961cf292524a8f5b3c2c0"
   integrity sha512-+K1NIO8I+F9/wNulfVvu23QYd0Pe9/OCqRrim4NoYIf1VoEDL90Ve4ClzpyqBLc7NpGGWRvYNCKZ1BE/Jpf8dQ==
@@ -2446,14 +2451,15 @@ croner@~4.1.92:
   resolved "https://registry.npmjs.org/croner/-/croner-4.1.97.tgz"
   integrity sha512-/f6gpQuxDaqXu+1kwQYSckUglPaOrHdbIlBAu0YuW8/Cdb45XwXYNUBXg3r/9Mo6n540Kn/smKcZWko5x99KrQ==
 
-cross-env@^7.0.0:
-  version "7.0.3"
-  resolved "https://registry.npmjs.org/cross-env/-/cross-env-7.0.3.tgz"
-  integrity sha512-+/HKd6EgcQCJGh2PSjZuUitQBQynKor4wrFbRg4DtAgS1aWO+gU52xpH7M9ScGgXSYmAVS9bIJ8EzuaGw0oNAw==
+cross-env@^10.1.0:
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-10.1.0.tgz#cfd2a6200df9ed75bfb9cb3d7ce609c13ea21783"
+  integrity sha512-GsYosgnACZTADcmEyJctkJIoqAhHjttw7RsFrVoJNXbsWWqaq6Ym+7kZjq6mS45O0jij6vtiReppKQEtqWy6Dw==
   dependencies:
-    cross-spawn "^7.0.1"
+    "@epic-web/invariant" "^1.0.0"
+    cross-spawn "^7.0.6"
 
-cross-spawn@^7.0.1, cross-spawn@^7.0.2, cross-spawn@^7.0.3, cross-spawn@^7.0.5:
+cross-spawn@^7.0.2, cross-spawn@^7.0.3, cross-spawn@^7.0.5, cross-spawn@^7.0.6:
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.6.tgz#8a58fe78f00dcd70c370451759dfbfaf03e8ee9f"
   integrity sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==
