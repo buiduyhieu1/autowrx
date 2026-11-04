@@ -1442,10 +1442,10 @@
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
-"@types/lodash@^4.17.25":
-  version "4.17.25"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.25.tgz#69765ac7bcddb0eb072961cf292524a8f5b3c2c0"
-  integrity sha512-+K1NIO8I+F9/wNulfVvu23QYd0Pe9/OCqRrim4NoYIf1VoEDL90Ve4ClzpyqBLc7NpGGWRvYNCKZ1BE/Jpf8dQ==
+"@types/lodash@^4.17.12":
+  version "4.17.27"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.27.tgz#15fb73275b64dbfe49e2ae8376bb469b352a47a7"
+  integrity sha512-VenMRv/eKNrspX9v3H4dbmjsrnCOYdYBG3kxXKk3dG6X+urBGcj2Prww3xw1U5K4FV/mE4h5GbWd0szEKf+9ew==
 
 "@types/mongoose@^5.11.97":
   version "5.11.97"
@@ -6678,9 +6678,9 @@ synckit@^0.11.7:
     "@pkgr/core" "^0.2.9"
 
 systeminformation@^5.23.20, systeminformation@^5.7:
-  version "5.31.1"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.31.1.tgz#5f88aa1db7470af87b6288baf1738603cafd1c4a"
-  integrity sha512-6pRwxoGeV/roJYpsfcP6tN9mep6pPeCtXbUOCdVa0nme05Brwcwdge/fVNhIZn2wuUitAKZm4IYa7QjnRIa9zA==
+  version "5.33.19"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.33.19.tgz#b956e75ff6d7bdc6019ca4fc13c78b01f47cc415"
+  integrity sha512-Zm7wGeCG7PqfvzegMJIzrxICopWqYCeLATVmvxOOci1isLcNVKgY4Fr0hhYQzvc7cgtK3377jQVChTFAnznOiA==
 
 tar-fs@^3.0.6:
   version "3.1.1"
